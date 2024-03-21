@@ -1,0 +1,8 @@
+# ninja log v5
+2	1966	7311789144867718	CMakeFiles/CPPLearn.dir/main.cpp.obj	271bb8b157d1073
+272	372	7311483544468757	CPPLearn.exe	26b258aa6046b8a1
+34	1966	7311789144867718	CMakeFiles/CPPLearn.dir/problem1/cylinder.cpp.obj	3dae1cc0aca57dcb
+19	1970	7311789144917779	CMakeFiles/CPPLearn.dir/problem1/problem1Test.cpp.obj	1a5d00d5a34736c4
+295	381	7311801646640550	problem1Test.exe	fbd465e25c31239d
+2	270	7311801941460391	CMakeFiles/problem1Test.dir/problem1/problem1Test.cpp.obj	5a0d67f67821a639
+0	7	0	clean	65b3d0098431fc13

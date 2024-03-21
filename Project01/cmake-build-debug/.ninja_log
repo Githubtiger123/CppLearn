@@ -1,0 +1,6 @@
+# ninja log v5
+2	494	7235799999854235	CMakeFiles/Project01.dir/main.cpp.obj	11768360424788ad
+53	5836	7235794187616419	CMakeFiles/Project01.dir/class_test/Person.cpp.obj	9407f2c8226e0887
+5843	13258	7235794261829362	Project01.exe	7fdf8b8cd2d7c94d
+58	667	7235798940302076	CMakeFiles/Project01.dir/class_test/Point.cpp.obj	ff553d53067faf77
+26	166	7235799996597539	CMakeFiles/Project01.dir/class_test/Circle.cpp.obj	2810e801ddb75ca6
