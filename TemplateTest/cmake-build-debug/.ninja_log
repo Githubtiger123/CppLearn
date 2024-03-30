@@ -1,0 +1,19 @@
+# ninja log v5
+22	538	7330754735762673	CMakeFiles/TemplateTest.dir/Person1.cpp.obj	af218d97024453b4
+15	574	7330754736134324	CMakeFiles/TemplateTest.dir/main.cpp.obj	c60c972912363b17
+300	401	7329020537941712	TemplateTest.exe	a0fa094b71437221
+510	679	7329672201284439	TemplateTest1.exe	4865c24817daffa3
+12	564	7330754736042992	CMakeFiles/TemplateTest.dir/TemplateTest1.cpp.obj	1340df0ae3f900f7
+5	509	7329672199643426	CMakeFiles/TemplateTest1.dir/TemplateTest1.cpp.obj	e5b03122aa6c9009
+3	263	7329935107449604	CMakeFiles/TemplateTest2.dir/TemplateTest2.cpp.obj	9cc644a4ce714fde
+275	374	7329935108523321	TemplateTest2.exe	6609957fb1232bda
+2	261	7329946190758111	CMakeFiles/TemplateTest3.dir/TemplateTest3.cpp.obj	1b819c1e4bc6f465
+267	357	7330810447348603	TemplateFriend.exe	3fb1fb7c6c0d0ca9
+261	343	7329946191550769	TemplateTest3.exe	48cf2a195ec2986a
+27	559	7330754735982638	CMakeFiles/TemplateTest.dir/TemplateTest3.cpp.obj	7ad11aec9c4e0039
+4	560	7330754735982638	CMakeFiles/TemplateTest.dir/TemplateTest2.cpp.obj	a140927d843f047f
+3	303	7330756049329751	CMakeFiles/main.dir/main.cpp.obj	bfe377fb0f1b2c9b
+303	410	7330756050378998	main.exe	95cd894b34c3c530
+3	267	7330810446459817	CMakeFiles/TemplateFriend.dir/TemplateFriend.cpp.obj	e44ca1e675e42762
+3	337	7334991484310895	CMakeFiles/MyArrayTest.dir/MyArrayTest.cpp.obj	bae5f9d22304a74
+338	437	7334991485283233	MyArrayTest.exe	f4731d0cfb650a8
